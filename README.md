@@ -39,6 +39,9 @@ This app allows users to input a genre and get personalized movie suggestions ba
 
 ---
 
+## Interaction with the application
+https://practice-fxvmqyjkja3daprnnbhfju.streamlit.app/
+
 ## 📦 Installation
 
 ```bash
@@ -46,3 +49,4 @@ git clone https://github.com/Mrunal003/Movie-Recommended-System.git
 cd Movie-Recommended-System
 pip install -r requirements.txt
 streamlit run app.py
+
